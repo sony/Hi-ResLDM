@@ -26,28 +26,28 @@ The link below redirects to the video on Youtube.
 ---
 <div style="display: flex; align-items: center;">
       <audio controls>
-            <source src="./assets/audio/penny_serende/emotional_orig.wav" type="audio/mpeg">
-            Your browser does not support the audio element.
+            <source src="./assets/audio/penny_serende/emotional_orig.wav" type="audio/mpeg" controls="nodownload">
+                              Your browser does not support the audio element.
       </audio>
-      <img src="./assets/images/penny_serende/emotional_orig.png" alt="original">
+      <img src="./assets/images/penny_serende/emotional_orig.png" alt="original" controls="nodownload">
 </div>
 <div style="display: flex; align-items: center;">
       <audio controls>
-            <source src="./assets/audio/penny_serende/emotional_vf.wav" type="audio/mpeg">
+            <source src="./assets/audio/penny_serende/emotional_vf.wav" type="audio/mpeg" controls="nodownload">
             Your browser does not support the audio element.
       </audio>
       <img src="./assets/images/penny_serende/emotional_vf.png" alt="vf">
 </div>
 <div style="display: flex; align-items: center;">
       <audio controls>
-            <source src="./assets/audio/penny_serende/emotional_re.wav" type="audio/mpeg">
+            <source src="./assets/audio/penny_serende/emotional_re.wav" type="audio/mpeg" controls="nodownload">
             Your browser does not support the audio element.
       </audio>
       <img src="./assets/images/penny_serende/emotional_re.png" alt="re">
 </div>
 <div style="display: flex; align-items: center;">
       <audio controls>
-            <source src="./assets/audio/penny_serende/emotional_ours.wav" type="audio/mpeg">
+            <source src="./assets/audio/penny_serende/emotional_ours.wav" type="audio/mpeg" controls="nodownload">
             Your browser does not support the audio element.
       </audio>
       <img src="./assets/images/penny_serende/emotional_ours.png" alt="ours">
