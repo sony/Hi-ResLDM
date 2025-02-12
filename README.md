@@ -52,10 +52,6 @@ The link below redirects to the video on Youtube.
       </audio>
       <img src="./assets/images/penny_serende/emotional_ours.png" alt="ours">
 </div>
-![original](./assets/images/penny_serende/emotional_orig.png)
-![original](./assets/images/penny_serende/emotional_vf.png)
-![original](./assets/images/penny_serende/emotional_re.png)
-![original](./assets/images/penny_serende/emotional_ours.png)
 
 
 ## Cite
